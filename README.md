@@ -1,0 +1,1 @@
+# Bridge API Type Definition

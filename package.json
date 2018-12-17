@@ -1,0 +1,18 @@
+{
+  "name": "bridge-api-types",
+  "version": "1.0.0",
+  "description": "Bridge API Type Definition",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "transpile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wchang28/bridge-api-types.git"
+  },
+  "author": "Wen Chang",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.2.1"
+  }
+}
