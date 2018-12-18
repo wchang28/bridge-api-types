@@ -418,7 +418,7 @@ export namespace PublicData {
     }
 
     export interface ParcelIdentifier {
-        PUID: string;
+        PUID: string;   // format: `US${county_fips}00${unformatted_apn}`
         parcelID: string;
         parcelUrl?: string;
         transactionsUrl?: string;
