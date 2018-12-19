@@ -23,7 +23,7 @@ export declare namespace PublicData {
     type Fireplace = "Electric";
     type Foundation = "Concrete" | "Concrete Block" | "Crawl Space/Raised" | "Footing" | "Masonry" | "Other" | "Piers" | "Retaining Wall" | "Slab" | "Wood";
     type GarageType = "Attached" | "Built in" | "Carport" | "Covered" | "Detached" | "Finished" | "Garage" | "Mixed" | "None" | "Open" | "Tuckunder" | "Underground/basement" | "Unfinished" | "Yes";
-    type Heating = "Baseboard" | "Central" | "Electric" | "Forced air" | "Gas" | "Gravity" | "Heat Pump" | "Hot Water" | "None" | "Other" | "Radiant" | "Solar" | "Vent" | "Yes";
+    type Heating = "Baseboard" | "Central" | "Electric" | "Forced air" | "Gas" | "Gravity" | "Heat Pump" | "Hot Water" | "None" | "Oil" | "Other" | "Radiant" | "Solar" | "Vent" | "Yes";
     type LandUseCode = "AG120" | "MS199" | "RI101" | "RR000" | "RR101" | "RR102" | "RR103" | "RR104" | "RR105" | "RR106" | "RR108" | "RR109" | "RR113" | "RR114" | "RR115" | "RR116" | "RR118" | "RR999" | "VL000" | "VL101" | "VL102" | "VL103" | "VL107";
     type LandUseDescription = "Bungalow" | "Cluster Home" | "Commercial Vacant Land" | "Condominium" | "Duplex (2 Units" | "Improved" | "Inferred Single Family Residential" | "Irrigation" | "Multi-Family Vacant Land" | "Residential General" | "Residential Vacant Land" | "Row House" | "Rural Residence" | "Single Family Residential" | "Townhouse" | "Vacant Land - General" | "Zero Lot Line";
     type LandUseGeneral = "AG" | "MS" | "RI" | "RR" | "VL";

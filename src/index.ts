@@ -231,6 +231,7 @@ export namespace PublicData {
     | "Heat Pump"
     | "Hot Water"
     | "None"
+    | "Oil"
     | "Other"
     | "Radiant"
     | "Solar"
