@@ -241,6 +241,7 @@ export namespace PublicData {
     
     export type LandUseCode
     = "AG120"
+    | "MS000"
     | "MS199"
     | "RI101"
     | "RR000"
@@ -274,6 +275,7 @@ export namespace PublicData {
     | "Improved"
     | "Inferred Single Family Residential"
     | "Irrigation"
+    | "Miscellaneous"
     | "Multi-Family Vacant Land"
     | "Residential General"
     | "Residential Vacant Land"
