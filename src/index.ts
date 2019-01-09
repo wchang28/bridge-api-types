@@ -176,6 +176,7 @@ export namespace PublicData {
     | "Sale Cancelled"
     | "Sale Change (Rescheduled or Postponed)"
     | "Sheriffs Deed"
+    | "Special Limited Warranty Deed"
     | "Special Warranty Deed"
     | "Survivorship Deed"
     | "Survivorship Warranty Deed"
