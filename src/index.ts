@@ -46,6 +46,7 @@ export namespace PublicData {
     | "Prefab"
     | "Raised Ranch"
     | "Ranch/Rambler"
+    | "Traditional"
     ;
     
     export type AreaType
