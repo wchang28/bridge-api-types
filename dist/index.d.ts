@@ -63,7 +63,7 @@ export declare namespace PublicData {
         city?: string;
         township?: string;
     }
-    interface Biulding {
+    interface Building {
         baths?: number;
         bedrooms?: number;
         effectiveYearBuilt?: number;
@@ -72,7 +72,7 @@ export declare namespace PublicData {
         totalStories?: string;
         yearBuilt?: number;
     }
-    interface BiuldingDetail extends Biulding {
+    interface BuildingDetail extends Building {
         noOfUnits?: number;
         occupancyStatus?: OccupancyStatus;
         class?: string;
@@ -131,7 +131,7 @@ export declare namespace PublicData {
         legal?: Legal;
         coordinates?: GeoCoordinate;
         numberOfBuildings?: number;
-        building?: BiuldingDetail[];
+        building?: BuildingDetail[];
         areas?: Area[];
         pools?: Pool[];
         garages?: Garage[];
@@ -233,7 +233,7 @@ export declare namespace PublicData {
         };
         apn?: string;
         areas?: Area[];
-        building?: Biulding[];
+        building?: Building[];
         buyerName?: string[];
         city?: string;
         coordinates?: GeoCoordinate;
