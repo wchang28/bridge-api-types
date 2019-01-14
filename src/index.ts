@@ -300,6 +300,7 @@ export namespace PublicData {
     export type LenderType
     = "Bank"
     | "Credit Union"
+    | "Et Al"
     | "Finance company"
     | "Government entity"
     | "Insurance company"

@@ -27,7 +27,7 @@ export declare namespace PublicData {
     type LandUseCode = "AG120" | "MS000" | "MS199" | "RI101" | "RR000" | "RR101" | "RR102" | "RR103" | "RR104" | "RR105" | "RR106" | "RR108" | "RR109" | "RR113" | "RR114" | "RR115" | "RR116" | "RR118" | "RR999" | "VL000" | "VL101" | "VL102" | "VL103" | "VL107";
     type LandUseDescription = "Bungalow" | "Cluster Home" | "Commercial Vacant Land" | "Condominium" | "Duplex (2 Units" | "Improved" | "Inferred Single Family Residential" | "Irrigation" | "Miscellaneous" | "Multi-Family Vacant Land" | "Residential General" | "Residential Vacant Land" | "Row House" | "Rural Residence" | "Single Family Residential" | "Townhouse" | "Vacant Land - General" | "Zero Lot Line";
     type LandUseGeneral = "AG" | "MS" | "RI" | "RR" | "VL";
-    type LenderType = "Bank" | "Credit Union" | "Finance company" | "Government entity" | "Insurance company" | "Internet Storefront" | "Lending company" | "Mortgage company" | "Other" | "Private Party" | "REO/Foreclosure Company" | "Reverse Mortgage Lender" | "Seller" | "Subprime Lender" | "Unknown";
+    type LenderType = "Bank" | "Credit Union" | "Et Al" | "Finance company" | "Government entity" | "Insurance company" | "Internet Storefront" | "Lending company" | "Mortgage company" | "Other" | "Private Party" | "REO/Foreclosure Company" | "Reverse Mortgage Lender" | "Seller" | "Subprime Lender" | "Unknown";
     type OccupancyStatus = "Assumed Owner Occupancy" | "Homestead Property" | "Owner Occupied or Primary Residence" | "Second Home";
     type Sewer = "Municipal/Public" | "None" | "Septic" | "Yes";
     type TransactionCategory = "deed" | "foreclosure" | "loan";
