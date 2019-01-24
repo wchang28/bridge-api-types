@@ -279,6 +279,7 @@ export namespace PublicData {
     | "Irrigation"
     | "Miscellaneous"
     | "Multi-Family Vacant Land"
+    | "Patio Home"
     | "Residential General"
     | "Residential Vacant Land"
     | "Row House"
