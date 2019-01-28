@@ -619,7 +619,7 @@ export namespace ZEstimates {
     }
 
     export interface ZEstimateRecordBase {
-        id: string; // estimate id
+        id: string; // estimate id or parcel id
         zpid: string;   // zillow property id
         address?: string;
         coordinates?: GeoCoordinate;
