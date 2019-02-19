@@ -29,7 +29,7 @@ export declare namespace PublicData {
     type LandUseGeneral = "AG" | "MS" | "RI" | "RR" | "VL";
     type LenderType = "Bank" | "Credit Union" | "Et Al" | "Finance company" | "Government entity" | "Insurance company" | "Internet Storefront" | "Lending company" | "Mortgage company" | "Other" | "Private Party" | "REO/Foreclosure Company" | "Reverse Mortgage Lender" | "Seller" | "Subprime Lender" | "Unknown";
     type OccupancyStatus = "Assumed Owner Occupancy" | "Homestead Property" | "Owner Occupied or Primary Residence" | "Second Home";
-    type Sewer = "Municipal/Public" | "None" | "Septic" | "Yes";
+    type Sewer = "Municipal/Public" | "None" | "Septic" | "Storm" | "Yes";
     type TransactionCategory = "deed" | "foreclosure" | "loan";
     type TransactionRecordType = "Primary Record";
     type Water = "Municipal/Public" | "None" | "Well" | "Yes";

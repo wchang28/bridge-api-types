@@ -328,6 +328,7 @@ export namespace PublicData {
     = "Municipal/Public"
     | "None"
     | "Septic"
+    | "Storm"
     | "Yes"
     ;
     
